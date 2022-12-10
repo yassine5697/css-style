@@ -1,0 +1,21 @@
+
+
+nav{
+    background-color: blue;}
+    .list{
+        list-style: none;
+        margin-right: 300px
+        ;font-size: 30px;
+        font-family:roboto ;
+    }
+    ul{display: flex;
+        margin-left: 100px;
+        justify-content: space-around;
+        text-align: center;
+    }
+    
+    #csspic{
+        width:100%;
+        height:auto ;
+    }
+    
